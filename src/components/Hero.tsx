@@ -21,7 +21,7 @@ const Hero = () => {
         </div>
         <div className="relative">
           <Image
-            src={"/hero.png"}
+            src={"/Rectangle 2.png"}
             className=" mr-4"
             width={1000}
             height={900}
